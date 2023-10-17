@@ -1,2 +1,2 @@
-print('che guvera once said, "the true revolutionary is guided by')
-print('great feelings of love."')
+print('epictetus once said, "happiness and freedom begin with a clear understanding of one principle')
+print('some things are within your control and some things are not."')
